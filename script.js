@@ -45,7 +45,7 @@ const account2 = {
 };
 
 const account3 = {
-  owner: 'Navash Ahamed',
+  owner: 'Navash ahamed',
   movements: [100, 405.23, -306.5, 250, -642.21, -133.9, 79.97, 13300],
   interestRate: 1.2, // %
   pin: 3333,
@@ -63,7 +63,7 @@ const account3 = {
   locale: 'en-IN',
 };
 
-const accounts = [account1, account2,account3];
+const accounts = [account1, account2, account3];
 
 // Elements
 const labelWelcome = document.querySelector('.welcome');
